@@ -1,0 +1,834 @@
+[
+  {
+    "ID": 1,
+    "Track": "Overworld Day",
+    "File": "Music_1.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Melodic power metal; brisk walking groove, twin guitar harmonies, rounded bass, crisp live drums, short ascending lead hooks. Sunny woodland adventure, buoyant optimism, melody ahead of shredding. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 2,
+    "Track": "Eerie",
+    "File": "Music_2.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Atmospheric doom metal; slow stalking pulse, low guitar ostinato, dissonant harmonics, restrained toms, distant synth haze. Red moon dread, patient menace, recurring uneasy melodic hook. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 3,
+    "Track": "Night",
+    "File": "Music_3.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Melodic atmospheric metal; clean arpeggiated guitars, soft minor-key lead, warm bass, restrained drums, occasional broad distorted chords. Moonlit exploration, reflective calm, spacious dynamics. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 4,
+    "Track": "Underground",
+    "File": "Music_4.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Progressive metal; clipped repeating guitar figures, playful bass movement, precise syncopated drums, metallic keyboard plucks. Cavern exploration with curious mechanical motion; tight recurring motifs rather than constant solos. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 5,
+    "Track": "Boss 1",
+    "File": "Music_5.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Thrash metal; urgent tremolo riffs, siren-like guitar bends, galloping bass, rapid double-kick bursts, sharp melodic answers. Immediate danger and pursuit, energetic hook, compact combat arrangement. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 6,
+    "Track": "Title (Classic)",
+    "File": "Music_6.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Symphonic melodic metal; concise clean-guitar opening, stately harmonized lead, restrained orchestral pads, broad power chords. Welcoming fantasy title music, dignified anticipation, memorable central theme. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 7,
+    "Track": "Jungle",
+    "File": "Music_7.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Progressive groove metal; interlocking toms and hand percussion, syncopated guitar riff, fluid bass, agile lead phrases. Dense green wilderness, adventurous curiosity, percussion forward without relentless aggression. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 8,
+    "Track": "Corruption",
+    "File": "Music_8.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Dark melodic doom metal; weighty mid-slow riff, descending twin-guitar phrases, uneasy sustained notes, dry snare, rolling bass. Poisoned landscape, recurring ominous hook, heavy but spacious. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 9,
+    "Track": "The Hallow",
+    "File": "Music_9.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Symphonic power metal; bright twin leads, bell accents, delicate harp-like guitar picking, uplifting chord movement, nimble drums. Radiant enchanted landscape, sweet melody with a strong metal foundation. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 10,
+    "Track": "Underground Corruption",
+    "File": "Music_10.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Progressive doom metal; low repeating riff, angular bass line, cold lead guitar echoes, deep tom patterns. Oppressive cavern journey, tension between steady motion and sinking harmonies. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 11,
+    "Track": "Underground Hallow",
+    "File": "Music_11.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Electronic power metal; glittering synth arpeggios doubled by precise lead guitar, fast palm-muted rhythm, bright bass, tight drums. Luminous crystal exploration, dance-like motion, clear melodic focus. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 12,
+    "Track": "Boss 2",
+    "File": "Music_12.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Speed thrash metal; racing palm-muted riffs, frantic lead exchanges, pounding double kick, abrupt stabs, rising harmonic tension. A relentless chase against a monstrous wall, urgent from the first bar. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 13,
+    "Track": "Boss 3",
+    "File": "Music_13.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Industrial doom metal; deliberate mechanical stomp, down-tuned guitars, repeating bass pulse, sparse metallic percussion, warped lead harmonics. Psychological threat, calculated menace, weight instead of speed. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 14,
+    "Track": "Snow",
+    "File": "Music_14.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Atmospheric melodic metal; crystalline guitar harmonics, gentle clean picking, rounded low end, unhurried drums, restrained distorted swells. Quiet winter travel, pristine air, warmth beneath the frost. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 15,
+    "Track": "Space Night",
+    "File": "Music_15.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Progressive space metal; airy analog synth, agile guitar arpeggios, floating bass, light rapid drums, playful melodic orbit. Weightless night exploration, wonder and movement, open stereo space. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 16,
+    "Track": "Crimson",
+    "File": "Music_16.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Dissonant groove metal; nervous syncopated riff, unsettling intervals, throbbing bass, sharp percussion, delayed melodic reveal. Organic horror, crawling tension, memorable sinister lead arriving after the opening section. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 17,
+    "Track": "Boss 4",
+    "File": "Music_17.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Melodic speed metal; bold rhythmic guitar theme, nimble harmonized leads, punchy bass, quick precise drums. Ancient stone guardian battle, athletic and forceful, adventurous harmonic color. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 18,
+    "Track": "Alt Overworld Day",
+    "File": "Music_18.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Progressive power metal; several connected bright guitar motifs, playful bass fills, buoyant drums, clean-to-distorted contrasts. A fresh daytime expedition, richer arrangement and evolving melody, upbeat throughout. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 19,
+    "Track": "Rain",
+    "File": "Music_19.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Melodic post-metal; gentle piano and clean guitar, measured bass, soft cymbals, warm distorted swells. Sheltering from rainfall, contemplative comfort, restrained intensity, repeating lyrical instrumental theme. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 20,
+    "Track": "Ice",
+    "File": "Music_20.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric progressive metal; glassy harmonics, low clean bass, sparse precise percussion, distant reverb, cold minor-key lead. Exploring an ice cavern, suspense and discovery, controlled bursts of distortion. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 21,
+    "Track": "Desert",
+    "File": "Music_21.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Desert progressive metal; modal lead guitar with an Egyptian-fantasy flavor, dry hand percussion, warm bass, spacious low riffs. Sunlit dunes and ancient stone, patient groove, understated melodic mystery. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 22,
+    "Track": "Ocean Day",
+    "File": "Music_22.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Melodic post-metal; flowing clean guitar, gentle sustained lead, relaxed rolling drums, spacious bass, soft distorted crescendos. Wide horizons and peaceful shoreline travel, steady waves of melody. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 23,
+    "Track": "Dungeon",
+    "File": "Music_23.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Gothic doom metal; resonant low riffs, echoing lead fragments, distant organ, heavy toms, tense harmonic suspensions. Descending through a haunted fortress, cavernous depth, sustained pressure rather than nonstop speed. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 24,
+    "Track": "Plantera",
+    "File": "Music_24.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Groove metal; muscular syncopated low riffs, gritty bass, punchy live drums, blues-inflected lead bends, short jungle-colored melodic phrases. Predatory plant boss battle, mid-tempo swagger, guitar-driven intensity. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 25,
+    "Track": "Boss 5",
+    "File": "Music_25.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Technical groove metal; buzzing tremolo figures, sharply gated rhythm guitar, revolving bass pattern, tightly controlled double kick, restless lead. Converging mechanical threats, serious pressure, efficient combat loop. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 26,
+    "Track": "Temple",
+    "File": "Music_26.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ritual progressive metal; resonant toms, dry low guitar ostinato, modal lead fragments, subtle wooden percussion, spacious bass. Forbidden jungle architecture, ancient mystery, deliberate procession into danger. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 27,
+    "Track": "Eclipse",
+    "File": "Music_27.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Gothic symphonic metal; pipe-organ riffs, ominous guitar chords, shifting drum intensity, suspenseful lead runs. Daylight turning into a horror procession, theatrical menace, contrasting stalking and rushing sections. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 28,
+    "Track": "Rain ambience",
+    "File": "Music_28.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ambient metal texture; rain-like brushed noise, distant low thunder, very soft bowed-guitar resonance and feedback. Unpitched and beatless background layer, minimal volume, designed to sit beneath another soundtrack. Instrumental texture only; no vocals. Continuous ambience suitable for looping.",
+    "Note": "Ambience slot: keep quiet and mostly unpitched to avoid clashing with the active music."
+  },
+  {
+    "ID": 29,
+    "Track": "Mushroom",
+    "File": "Music_29.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Psychedelic progressive metal; slippery bass groove, odd guitar accents, liquid phaser tones, curious keyboard plucks, playful restrained drums. Bioluminescent dream cavern, strange delight, off-center instrumental hook. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 30,
+    "Track": "Pumpkin Moon",
+    "File": "Music_30.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Horror power metal; galloping guitar, sinister carnival keyboard accents, pounding toms, dramatic lead harmonies. A midnight monster parade, mischievous terror, recurring hooks with escalating combat energy. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 31,
+    "Track": "Alt Underground",
+    "File": "Music_31.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Progressive melodic metal; darker exploratory guitar figures, firm bass pulse, restrained technical drums, echoing minor lead. A second cavern journey, purposeful forward motion, growing tension near the final section. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 32,
+    "Track": "Frost Moon",
+    "File": "Music_32.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Festive speed metal; distorted twin-guitar hooks, bright bell accents, racing double kick, tight bass, energetic rhythmic stops. A winter celebration turned battle, joyful sparkle colliding with aggressive riffs. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 33,
+    "Track": "Underground Crimson",
+    "File": "Music_33.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Dissonant progressive metal; clipped cavern riff, pulsating down-tuned bass, harsh harmonic accents, uneasy lead echoes. A living subterranean nightmare, steadily moving rhythm under anxious melody. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 34,
+    "Track": "The Towers",
+    "File": "Music_34.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Progressive extreme metal; rapid angular riffs, tightly locked bass and drums, dissonant orchestral accents, fragmented cosmic lead motifs. An alien siege, overwhelming momentum, structured intensity across contrasting sections. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 35,
+    "Track": "Pirate Invasion",
+    "File": "Music_35.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Pirate folk metal; jaunty minor-key guitar melody, stomping drums, concertina-like keyboard, broad bass, swashbuckling harmonized leads. A rowdy nautical raid, memorable instrumental refrain, rugged adventure. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 36,
+    "Track": "Hell",
+    "File": "Music_36.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Industrial doom metal; crushing low guitar, harsh metallic percussion, deep toms, grinding bass, scorched ambient resonance. Descending into an infernal furnace, immense weight, rhythmic menace and controlled saturation. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 37,
+    "Track": "Martian Madness",
+    "File": "Music_37.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Industrial progressive metal; alien synth stabs, jagged gated guitar, machine-like bass pulse, punchy double kick. Hostile spacecraft assault, bold science-fiction atmosphere, unpredictable rhythmic attacks with a clear hook. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 38,
+    "Track": "Lunar Boss",
+    "File": "Music_38.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cosmic progressive metal; fast tremolo guitar, huge bass, forceful drums, celestial synth layers, immense harmonized lead theme. Final confrontation with a cosmic entity, multiple escalating sections, awe and danger. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 39,
+    "Track": "Goblin Invasion",
+    "File": "Music_39.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Folk thrash metal; rough marching riff, snare-driven rhythm, scrappy minor guitar hook, pounding bass, mischievous keyboard accents. A chaotic raiding army, energetic and slightly grotesque, repeating combat refrain. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 40,
+    "Track": "Sandstorm",
+    "File": "Music_40.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Desert groove metal; sharp modal guitar runs, sitar-like string accents, wind-textured synth, churning bass, pounding toms. Sand whipping across ruined stone, mounting urgency, rhythmic grit and swirling atmosphere. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 41,
+    "Track": "Old One's Army",
+    "File": "Music_41.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Orchestral power metal; brass-like synth fanfares, harmonized guitar theme, marching snare, booming toms, galloping rhythm section. Defending a fantasy stronghold, heroic resolve, successive waves of orchestral and metal intensity. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 42,
+    "Track": "Space Day",
+    "File": "Music_42.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Atmospheric post-metal; slow guitar swells, luminous synth pads, restrained bass, sparse cymbal wash, clear floating lead. A peaceful sky above the world, immense distance, gentle wonder, patient development. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 43,
+    "Track": "Ocean Night",
+    "File": "Music_43.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Melodic progressive metal; buoyant clean guitar, warm bass bounce, light syncopated drums, sparkling lead harmonies. A welcoming moonlit shore, lively serenity, rhythmic lift without battle-level aggression. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 44,
+    "Track": "Windy Day",
+    "File": "Music_44.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Folk power metal in three-quarter time; lilting guitar melody, light tambourine accents, dancing bass, airy flute-like synth. A playful windswept woodland waltz, buoyant motion, melodic charm over crushing heaviness. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 45,
+    "Track": "Wind ambience",
+    "File": "Music_45.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ambient metal texture; broadband wind-like noise, distant air movement, soft volume-swelling guitar feedback. Beatless and mostly unpitched, no foreground riff, low level beneath other music, gently varying intensity. Instrumental texture only; no vocals. Continuous ambience suitable for looping.",
+    "Note": "Ambience slot: keep quiet and mostly unpitched to avoid clashing with the active music."
+  },
+  {
+    "ID": 46,
+    "Track": "Town Day",
+    "File": "Music_46.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Melodic folk metal; friendly clean guitar theme, warm bass, light drums, modest distorted harmonies, subtle acoustic strings. A safe village between adventures, reassuring movement, simple welcoming refrain. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 47,
+    "Track": "Town Night",
+    "File": "Music_47.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Atmospheric melodic metal; a brief lively opening settling into clean arpeggios, soft lead guitar, gentle bass and drums. Home after a long journey, quiet contentment, restrained heavy chord accents. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 48,
+    "Track": "Slime Rain",
+    "File": "Music_48.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Playful groove metal; rubbery bass, bouncy syncopated low guitar, quick drum fills, quirky high lead phrases. Gelatinous chaos falling from the sky, cartoon energy, catchy instrumental hook with metal punch. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 49,
+    "Track": "Day Remix",
+    "File": "Music_49.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Electronic power metal with hardstyle energy; four-on-the-floor kick, pumping bass, euphoric guitar hook, bright synth arpeggios, tightly gated riffs. Daytime adventure transformed into a celebratory metal dance track. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 50,
+    "Track": "Journey's Beginning (with intro)",
+    "File": "Music_50.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Cinematic symphonic power metal; brief dramatic opening swell into a broad heroic guitar theme, orchestral support, clear bass, confident drums. A grand welcome to an adventure, triumphant and inviting. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Pair with 51: make one master arrangement, then export an intro version and a version beginning at the main theme."
+  },
+  {
+    "ID": 51,
+    "Track": "Journey's Beginning",
+    "File": "Music_51.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Cinematic symphonic power metal; start directly on a broad heroic guitar theme, orchestral support, clear bass, confident drums. Grand welcoming adventure music, triumphant and inviting, stable repeating arrangement. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Pair with 50; reuse the same master arrangement rather than generating two unrelated songs."
+  },
+  {
+    "ID": 52,
+    "Track": "Storm",
+    "File": "Music_52.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Orchestral groove metal; heavy guitar ostinato, thunderous toms, sharp string accents, dark bass, surging cymbals. Violent weather rolling across the landscape, turbulent pressure, controlled rhythmic escalation. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 53,
+    "Track": "Graveyard",
+    "File": "Music_53.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Gothic doom metal; a fragile clean-guitar village-like theme darkened by slow low chords, tolling accents, subdued bass and drums. Abandoned homes and cold gravestones, sorrow and unease, restrained instrumental lament. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 54,
+    "Track": "Underground Jungle",
+    "File": "Music_54.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric progressive groove metal; tangled low riffs, deep hand percussion, brooding lead guitar, fluid bass, dim synth layers. Dense vegetation beneath the earth, quiet threat, exploratory momentum. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 55,
+    "Track": "Jungle Night",
+    "File": "Music_55.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ritual atmospheric metal; slow tom-led pulse, heavy low guitar accents, sparse bass, nocturnal clean-guitar echoes. Predators hidden in foliage, patient unease, percussion carrying the arrangement. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 56,
+    "Track": "Queen Slime",
+    "File": "Music_56.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Symphonic progressive metal; regal guitar fanfare and bright keyboard opening, then precise darker riffs and methodical drums. Glittering royal spectacle becoming dangerous, clear contrast between ceremonial melody and combat groove. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 57,
+    "Track": "Empress of Light",
+    "File": "Music_57.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Neoclassical power metal with electronic shimmer; explosive rapid opening, dazzling guitar runs, pounding double kick, luminous synth. Shift into a spacious lyrical middle, then a transformed second theme; beautiful, volatile, overwhelming. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 58,
+    "Track": "Duke Fishron",
+    "File": "Music_58.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Nautical groove metal; deliberate rolling bass, heavy swaying guitar riff, watery keyboard accents, measured toms, rugged melodic lead. A deep-sea predator, swaggering maritime menace, weight and tension over constant speed. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 59,
+    "Track": "Morning Rain",
+    "File": "Music_59.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Melodic folk power metal; bright lead guitar, lively bass, clean acoustic accents, crisp upbeat drums. Setting out at dawn after rain, fresh optimism and adventurous lift, inviting melody with moderate heaviness. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 60,
+    "Track": "Alt Title",
+    "File": "Music_60.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Symphonic progressive metal; expressive clean-guitar introduction, expanded twin-lead theme, richer orchestral layers, measured bass and drums. A sweeping fantasy welcome, several melodic variations, dignified grandeur. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 61,
+    "Track": "Underground Desert",
+    "File": "Music_61.mp3",
+    "InOldPack": true,
+    "SunoStyle": "Progressive desert metal; start with low strings and sparse modal guitar, gradually introduce thick riffs, bass and forceful drums. Ancient buried chambers awakening, patient mystery growing into a muscular instrumental groove. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 62,
+    "Track": "Otherworldly Rain",
+    "File": "Music_62.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cinematic post-metal; delicate piano droplets, spacious clean guitar, resonant bass, soft drums, broad distorted crescendos. Rain across an unfamiliar fantasy world, emotional clarity and patient atmospheric development. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 63,
+    "Track": "Otherworldly Overworld Day",
+    "File": "Music_63.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Celtic power metal; agile flute-like melody answered by twin guitars, buoyant bass, galloping drums, orchestral warmth. An expansive new adventure, optimistic resolve, cinematic scale with a memorable instrumental theme. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 64,
+    "Track": "Otherworldly Night",
+    "File": "Music_64.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cinematic progressive metal; nervous minor guitar ostinato, dark strings, pulsing bass, bursts of rapid drums. Nightfall in hostile territory, alternating watchful quiet and sudden urgency, recurring tense theme. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 65,
+    "Track": "Otherworldly Underground",
+    "File": "Music_65.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Symphonic progressive metal; violin-like lead doubled by electric guitar, noble harmonic movement, firm bass, measured technical drums. A heroic descent into vast caverns, grand opening and recurring exploratory refrain. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 66,
+    "Track": "Otherworldly Desert",
+    "File": "Music_66.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Desert folk metal; dry slide-guitar color, distant low percussion, expressive flute-like lead, spacious heavy chords. A lone traveler crossing unknown sands, rugged mystery and restrained fantasy adventure. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 67,
+    "Track": "Otherworldly Ocean",
+    "File": "Music_67.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric folk metal; pan-flute-like lead answered by clean guitar, wide sustained bass, gently rolling drums, warm distorted swells. Remote shores and open water, patient melodic breathing, cinematic horizon. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 68,
+    "Track": "Otherworldly Mushroom",
+    "File": "Music_68.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Psychedelic post-metal; crystalline keyboard plucks, liquid clean guitar, softly syncopated bass, understated drums. A glowing dream cavern, patient curiosity, drifting texture gradually supported by gentle heavy chords. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 69,
+    "Track": "Otherworldly Dungeon",
+    "File": "Music_69.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ritual doom metal; deep ceremonial toms, low guitar drone, mournful bowed-string lead, spacious bass, distant resonant bells. Ancient catacombs, solemn procession, oppressive architecture and restrained melodic gravity. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 70,
+    "Track": "Otherworldly Space",
+    "File": "Music_70.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cinematic space metal; slowly evolving synth atmosphere, distant clean-guitar echoes, growing bass and drums, eventual broad heroic lead. Floating beyond the known world, wonder expanding into determined forward motion. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 71,
+    "Track": "Otherworldly Underworld",
+    "File": "Music_71.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Gothic groove metal; harpsichord-like arpeggios against crushing guitars, dark bass, forceful toms, haunted lead motifs. A sprawling infernal mansion, theatrical dread with confident rhythmic drive. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 72,
+    "Track": "Otherworldly Snow",
+    "File": "Music_72.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric electronic metal; luminous trance-like arpeggios, clean melodic guitar, warm sustained bass, restrained rhythmic drums. A dreamlike winter landscape, calm fantasy wonder, uplifting heavy chord swells. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 73,
+    "Track": "Otherworldly Corruption",
+    "File": "Music_73.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Dark progressive doom metal; undulating low riff, deep bass groove, spacious percussion, restrained eerie lead. A blighted world slowly breathing, hypnotic tension, patient changes in guitar texture. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 74,
+    "Track": "Otherworldly Underground Corruption",
+    "File": "Music_74.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Progressive sludge metal; thick rolling guitar riff, gritty bass, forceful toms, distant dissonant lead, tight rhythmic accents. Deeper into a living blight, persistent pressure, heavier and more restless development. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 75,
+    "Track": "Otherworldly Crimson",
+    "File": "Music_75.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Psychedelic doom metal; low brass-like synthesizer, throbbing bass, sparse guitar dissonance, deep deliberate drums. An alien organic landscape, creeping dread, evolving spectral textures and a dark instrumental hook. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 76,
+    "Track": "Otherworldly Underground Crimson",
+    "File": "Music_76.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Progressive extreme metal; brooding low-guitar opening, increasingly clipped riffs, accelerating drum intensity, anxious bass movement. A nightmare passage closing in, mounting pressure, recurring unsettling melody. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 77,
+    "Track": "Otherworldly Ice",
+    "File": "Music_77.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric doom metal; brittle bell-like harmonics, cold sustained guitar, deep bass, sparse resonant toms. Frozen caverns concealing danger, crystalline distance, restrained rhythmic weight and quiet dread. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 78,
+    "Track": "Otherworldly Underground Hallow",
+    "File": "Music_78.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Gothic progressive metal; toy-piano-like plucks, unusual percussion, angular guitar, mysterious bass, bright unsettling lead phrases. Beautiful enchanted caverns with a hidden threat, playful precision and shadowed harmony. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 79,
+    "Track": "Otherworldly Eerie",
+    "File": "Music_79.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Apocalyptic symphonic doom metal; cathedral-like organ and string pads, grinding low guitar, slow powerful bass, ceremonial drums. A world awaiting disaster, immense tragic melody, gradual orchestral expansion. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 80,
+    "Track": "Otherworldly Boss 2",
+    "File": "Music_80.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cinematic symphonic metal; explosive opening hit, immediate drop to a tense bass-and-guitar pulse, rebuilding drums and orchestral lead. Massive boss encounter, dramatic intensity curve, strong returning instrumental theme. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 81,
+    "Track": "Otherworldly Boss 1",
+    "File": "Music_81.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Dark orchestral power metal; ominous brass-like riffs, forceful rhythm guitars, marching drums, low bass, commanding lead harmonies. A formidable fantasy enemy, disciplined battle momentum, heroic resistance under threat. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 82,
+    "Track": "Otherworldly Invasion",
+    "File": "Music_82.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cinematic speed metal; urgent repeated guitar notes, ticking percussion, galloping bass, rapid drums, short rising lead hooks. Defenses collapsing as enemies approach, relentless forward pressure, a clear repeating combat pattern. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 83,
+    "Track": "Otherworldly The Towers",
+    "File": "Music_83.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Epic progressive metal; massive guitar theme, soaring orchestral strings, driving bass, thunderous drums, harmonized leads. Resistance against celestial invaders, determined grandeur, repeated theme with expanding intensity. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 84,
+    "Track": "Otherworldly Lunar Boss",
+    "File": "Music_84.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Epic symphonic extreme metal; enormous sustained lead theme, dense orchestral counterlines, crushing guitar, powerful bass, rapid double kick. Cosmic final battle, scale beyond the landscape, dramatic contrasts and overwhelming climax. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 85,
+    "Track": "Otherworldly Plantera",
+    "File": "Music_85.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Dark melodic groove metal; ominous low riffs, snarling bass, precise heavy drums, sorrowful lead melody, subtle jungle percussion. An ambush beneath tangled roots, oppressive atmosphere and muscular rhythmic control. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 86,
+    "Track": "Otherworldly Jungle",
+    "File": "Music_86.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric folk metal; droning hurdy-gurdy-like strings, peaceful guitar melody, warm bass, gentle hand percussion, restrained heavy swells. An ancient green sanctuary, calm exploration, organic texture and patient melodic development. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 87,
+    "Track": "Otherworldly Wall of Flesh",
+    "File": "Music_87.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Cinematic power metal; dramatic guitar fanfare, forceful bass, marching double kick, broad string support, determined harmonized lead. A desperate crossing into a changed world, perilous momentum with heroic resolve. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 88,
+    "Track": "Otherworldly Hallow",
+    "File": "Music_88.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Symphonic post-metal; luminous wordless-synth melody, delicate piano, warm clean guitar, slow bass, broad restrained distorted chords. A radiant sanctuary, spiritual openness and lyrical calm, patient cinematic build. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 89,
+    "Track": "Journey's End",
+    "File": "Music_89.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Celebratory symphonic power metal; triumphant twin-guitar theme, rich orchestral support, buoyant bass, confident drums, short melodic callbacks developed into a finale. Adventure completed, relief and pride, generous uplifting atmosphere. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 90,
+    "Track": "Deerclops",
+    "File": "Music_90.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Electronic industrial metal; chilly synth sequence, sharp guitar chops, driving bass, energetic drums, strange dark keyboard ornaments. A surreal winter monster encounter, quirky tension, punchy recurring instrumental hook. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 91,
+    "Track": "Aether",
+    "File": "Music_91.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ethereal progressive post-metal; shimmering harmonics, floating clean guitar, liquid synth pads, subdued bass, sparse drums. Hidden iridescent sanctuary, surreal calm, restrained distortion blooming beneath an expressive suspended melody. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 92,
+    "Track": "The Destroyer",
+    "File": "Music_92.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Industrial sludge metal; abrasive low riffs, crunchy bass, pounding metallic drums, grinding guitar bends, relentless rhythmic cycle. An enormous mechanical serpent, oppressive mass and stubborn forward momentum. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 93,
+    "Track": "King Slime",
+    "File": "Music_93.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Swing groove metal; bouncing bass, swung guitar chugs, playful brass-like keyboard accents, punchy drums, comically regal lead. A pompous gelatinous king, fun heavyweight swagger, unmistakable rhythmic bounce. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 94,
+    "Track": "Lunatic Cultist",
+    "File": "Music_94.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Ritual symphonic progressive metal; quick controlled guitar pulse, low orchestral strings, eerie sustained synth voices, precise percussion. Forbidden ceremony becoming a battle, ominous restraint, agile instrumental lead with medieval color. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 95,
+    "Track": "Alt Queen Bee",
+    "File": "Music_95.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Electronic technical metal; buzzing synth-guitar unison, jagged syncopation, fast staccato bass, precise double kick, sharp lead fragments. Alternate hive battle interpretation, restless insect-like movement, vivid contrast with the main bee arrangement. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Published music table leaves the musical description blank. This is a proposed alternate hive direction, not a verified description of the original."
+  },
+  {
+    "ID": 96,
+    "Track": "Queen Bee",
+    "File": "Music_96.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Technical thrash metal; rapid staccato guitar, buzzing lead tremolo, sharply articulated bass, brisk clipped drums, sudden directional accents. An aggressive airborne hive attack, frenetic movement, compact repeating melodic hook. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 97,
+    "Track": "The Twins",
+    "File": "Music_97.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Atmospheric industrial metal; two alternating lead-guitar voices, hollow synth space, urgent down-tuned riff, locked bass, forceful drums. Two predators tracking every move, calculated tension and escalating dueling motifs. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 98,
+    "Track": "Skeletron Prime",
+    "File": "Music_98.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Industrial progressive metal; thick Reese-style synth bass doubled by down-tuned guitar, precise mechanical drums, dramatic lead, metallic impact accents. A many-armed killing machine, heavy theatrical momentum, clear recurring riff. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 99,
+    "Track": "Eater of Worlds",
+    "File": "Music_99.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Dissonant progressive metal; spacious string glissandi, strange guitar harmonics, serpentine bass movement, explosive drums, angular melodic fragments. A vast subterranean predator, exhilarating unease, open space between violent rhythmic attacks. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Proposed metal arrangement. Genre, instruments and intensity are creative recommendations, not measured properties of the original."
+  },
+  {
+    "ID": 100,
+    "Track": "Alt Torch God",
+    "File": "Music_100.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Gothic industrial groove metal; theatrical low riffs, hard bass pulse, elaborate organ-like synth, controlled drums, lead guitar carrying the main refrain. Fire-lit supernatural spectacle, sinister swagger, fully instrumental alternate arrangement. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "The original alternate theme includes vocals. This prompt deliberately makes an instrumental version; guitar carries the refrain."
+  },
+  {
+    "ID": 101,
+    "Track": "Torch God",
+    "File": "Music_101.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Industrial groove metal; focused low-guitar refrain, pounding bass, tight live drums, dark electronic accents, searing lead harmonics. Dodging supernatural fire in a confined chamber, relentless pulse and memorable riff-driven intensity. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Related to 100. For a close matched pair, use the same instrumental arrangement for both slots."
+  },
+  {
+    "ID": 102,
+    "Track": "Rainbow Boulder (with intro)",
+    "File": "Music_102.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Electronic speed metal; brief rising guitar-noise sweep into a pumping four-on-the-floor rhythm, rapid bass, bright arcade synth, sharp guitar hook. Absurd imminent danger, short explosive arrangement and frantic momentum. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Pair with 103: use one master arrangement, retaining the riser here."
+  },
+  {
+    "ID": 103,
+    "Track": "Rainbow Boulder",
+    "File": "Music_103.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Electronic speed metal; immediate pumping four-on-the-floor rhythm, rapid bass, bright arcade synth, sharp guitar hook. Absurd imminent danger, compact repeated phrase, steady energy, start directly on the main groove. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "Pair with 102: trim the opening riser from the same master arrangement."
+  },
+  {
+    "ID": 104,
+    "Track": "Skeletron",
+    "File": "Music_104.mp3",
+    "InOldPack": false,
+    "SunoStyle": "Medieval gothic power metal; agile lute-like guitar figure, dry orchestral accents, nimble bass, controlled rapid drums, mystical harmonized lead. A cursed guardian outside an ancient dungeon, dramatic fantasy menace with melodic clarity. Instrumental only, no vocals. Keep the main melody prominent, mix guitars below the lead, steady game-background energy, recurring A-B-A arrangement, no long silent intro, return naturally to the opening phrase.",
+    "Note": "This is the in-game Skeletron slot. The soundtrack-album-only alternate Skeletron is outside this pack target."
+  }
+]
